@@ -8,7 +8,7 @@ import java.lang.annotation.Annotation;
 import br.com.deployxtech.emhs.core.annotation.Service;
 
 /**
- * @author francisco
+ * @author Francisco Silva
  *
  */
 public class EmhsConfiguraction {
